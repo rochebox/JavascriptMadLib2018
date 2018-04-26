@@ -1,0 +1,88 @@
+/* css for Eliza */
+
+body{
+	background-color: dodgerblue;
+	text-align: center;
+}
+
+p {
+	font-family: 'PT Sans Caption', sans-serif;
+
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 40px;
+	color: white;
+
+
+}
+
+#babyPic{
+	border: 3px solid navy;
+	padding:1px;
+}
+
+
+
+#madButton
+{
+	font-family: 'PT Sans Caption', sans-serif;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+	width: 45%;
+	font-size: 25px;
+
+	border: 5px solid navy;
+}
+
+#finalMadLib
+{
+	margin-top: 5%;
+	font-family: 'Gamja Flower', cursive;
+	font-size: 20pt;
+	color:white;
+
+	width: 50%;
+
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+}
+
+.ic 
+{
+	font-family: 'PT Sans Caption', sans-serif;
+	font-size: 20pt;
+	color: purple;
+}
+
+.wc 
+{
+	font-size: 20pt;
+	color: orange;
+}
+
+
+
+
+
+
+
+
+
+
+
+.bStyles {
+	font-family: 'PT Sans Caption', sans-serif;
+	background-color: #d7f442;
+	width: 41%;
+
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 20px;
+	color: dodgerblue;
+	border: 7px solid navy;
+	border-radius: 20px 20px 4px 4px;
+}
