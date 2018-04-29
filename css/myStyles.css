@@ -65,13 +65,20 @@ p {
 }
 
 
+.c {
+	font-family: 'PT Sans Caption', sans-serif;
+	color: #FF69B4;
+	font-size: 25px ;
+	height:30px;
+	background-color: khaki;
+	font-weight: bolder;
+	border-radius: 15px  25px  15px 25px;
+	text-align:center;
+	padding-right: 10px;
+	padding-left: 10px;
 
 
-
-
-
-
-
+}
 
 
 .bStyles {

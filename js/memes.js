@@ -50,23 +50,38 @@ function doMadLib() {
 
 
   	    var story = 
-  	    "Earlier today, I went to the " + dHall  +
-		" to get a plate of " + foodItem1 + ".  The meal was " + mealType +
-		" so the place was filled with heavenly scents of " +
-		sThing1 + ", " + sThing2 + " and " + sThing3 + ". <br> <br>" +
+  	    "Earlier today, I went to the <span class='c'>" 
+        + dHall  +
+		"</span> to get a plate of <span class='c'>" 
+    + foodItem1 + "</span>.  The meal was <span class='c'>" 
+    + mealType +
+		"</span> so the place was filled with heavenly scents of <span class='c'>" +
+		sThing1 + "</span>, <span class='c'>" 
+    + sThing2 + "</span> and <span class='c'>" 
+    + sThing3 + "</span>. <br> <br>" +
 
-		"When I walked in, however, I was surprised to see " +
-		"a " + animalAdj + " " + animalObj + " in the " + dHall + ".  It was an" +
-		" amazing creature with " + color1 + " and " + color2 + " " + dPattern + 
-		" and also a " + pMusical + " at the top of its head. <br> <br>" +
+		"When I walked in, however, I was surprised to see <span class='c'>" +
+		"a " 
+    + animalAdj + "</span> <span class='c'>" 
+    + animalObj + "</span> in the <span class='c'>" 
+    + dHall + "</span>.  It was an amazing creature with <span class='c'>" 
+    + color1 + "</span> and <span class='c'>" 
+    + color2 + "</span> <span class='c'>" 
+    + dPattern + 
+		"</span> and also a <span class='c'>" 
+    + pMusical + "</span> at the top of its head. <br> <br>" +
 
-		"He said his name was " + name + " and he had come from " +
-		origin + ".  He was hungry so he stopped for a bite " +
-		"at the "  + dHall +    ". <br> <br>" +
+		"He said his name was <span class='c'>" 
+    + name + "</span> and he had come from <span class='c'>" +
+		origin + "</span>.  He was hungry so he stopped for a bite " +
+		"at the <span class='c'>"  
+    + dHall +    "</span>. <br> <br>" +
 
-		"I was so surprised that I forgot my " + foodItem1 +  ", which " +
-		"started to burn -- and the school burnt down. So we got the day off from school and the " +
-		 animalAdj + " " + animalObj  + " flew away.  No one ever believed " +
+		"I was so surprised that I forgot my <span class='c'>" 
+    + foodItem1 +  "</span>, which " +
+		"started to burn -- and the school burnt down. So we got the day off from school and the <span class='c'>" +
+		 animalAdj + "</span> <span class='c'>" 
+     + animalObj  + "</span> flew away.  No one ever believed " +
 		"that I had seen one."
 		//alert(story);
 
